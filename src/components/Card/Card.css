@@ -1,0 +1,60 @@
+.profile-area {
+    padding: 80px 0;
+  }
+  #card {
+    overflow:hidden;
+    border-radius:15px ;
+  }
+  .img1 img {
+    height: 200px ;
+    border-top-right-radius : 15px ;
+    border-top-left-radius : 15px ;
+    width: 100% ;
+  }
+  .circle i{
+    border-radius: 50%;
+    color: white;
+    padding: 12px;
+    font-size: 40px;
+    display:inline-block;
+    background-color:#dc3545;
+    align-items: center;
+    justify-content: center;
+    margin-top: -40px;
+    z-index: 999;
+  }
+  #card:hover.img2 img {
+    border-color:darkcyan;
+    transition:.7s ;
+  }
+  .main-text{
+    padding : 30px 0 ;
+    text-align :center ;
+  }
+  .main-text h2 {         
+      text-transform : uppercase ;
+      font-weight : 900 ;
+      font-size : 20px ;
+      margin: 0 0 20px ;
+  }
+  .main-text p{
+      font-size : 16px ;
+      padding: 0 35px ;
+  }
+  #card{ 
+    box-shadow:0 10px 10px rgba(0, 0, 0, 0.374);
+    background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+    transition: all 0.35s ease;
+    
+  }
+  #card:hover { 
+    box-shadow: none;
+    transform: translateY(5px);
+  }
+
+  #card1{
+    padding: 10px;
+  }
+  #card2{
+    padding: 10px;
+  }

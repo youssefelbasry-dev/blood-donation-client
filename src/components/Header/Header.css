@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;700&display=swap');
+
+:root {
+    --primary: #0d6efd;
+    --dark: #21252f;
+    --body: #888;
+    --white: #ffffff;
+    --box-shadow: 0 10px 10px rgba(0, 0, 0, 0.374);
+}
+h1,h2,h3,h4,h5,h6,
+.display-4 {
+    color: var(--dark);
+    font-weight: 700;
+}
+a {
+    color: var(--dark);
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+}
+
+.navbar .nav-link .active {
+    color: var(--primary) !important;
+}
+body{
+  font-family: 'Urbanist', sans-serif;
+    line-height: 1.7;
+    background-color: rgba(221, 221, 221, 0.594);
+    
+}
+a {
+    
+    text-decoration: none;
+    
+}
+.logo {
+    width: 100px;
+}
+.nav-link{
+    margin-right: 40px;
+}
+
+.navbar .nav-link {
+    font-size: 18px;
+    font-weight: 500;
+    
+}
+.btn{
+    border-width: 2px;
+    border-radius:5px;
+}
+.navbar{
+    background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+}

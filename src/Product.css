@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&family=Urbanist:ital,wght@0,300;1,300&display=swap');
+.btn{
+color: white;
+background-color: #1270fe;
+font-family: 'Urbanist', sans-serif;
+border-radius: 6px;
+}
+.card-title{
+    font-family: 'Urbanist', sans-serif;
+    letter-spacing: 3px;
+}
+.card-text{
+    font-family: 'Urbanist', sans-serif;
+}
+
+.card{
+    background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+}
+#img{
+    height: 300px;
+    width:100%;
+}
+#info{
+    padding: 10px;
+}

@@ -1,0 +1,36 @@
+
+#hero img{
+    width: 50%;
+    height: 400px;
+    filter: drop-shadow(10px 20px 10px rgba(0, 0, 0, 0.148));
+    
+    
+}
+
+.navbar{
+    box-shadow:5px 5px 5px rgba(0, 0, 0, 0.148) ;
+}
+#hero{
+    height: 100vh;
+    background-image: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
+   
+}
+.btn{
+    margin: 5px 10px 0px 0px;
+    padding: 5px;
+    
+}
+.floating{
+    animation-name: floating;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+
+@keyframes floating {
+    from { transform: translate(0,  0px);
+     }
+    65%  { transform: translate(0, 15px);}
+    to   { transform: translate(0, -0px); }
+}
+

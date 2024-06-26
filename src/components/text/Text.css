@@ -1,0 +1,120 @@
+@media only screen and (max-width: 2000px) {
+    #vedio{
+      position: relative;
+      margin-left: 373px;
+      width: 550px;
+    }
+    
+  }
+  @media only screen and (max-width: 1400px) {
+    #vedio{
+      position: relative;
+      margin-left: 285px;
+      width: 550px;
+    }
+    
+  }
+  @media only screen and (max-width: 1200px) {
+    #vedio{
+      position: relative;
+      margin-left: 195px;
+      width: 550px;
+    }
+    
+  }
+  @media only screen and (max-width: 992px) {
+    #vedio{
+      position: relative;
+      margin-left: 75px;
+      width: 550px;
+    }
+    
+  }
+  
+  @media only screen and (max-width: 769px) {
+    #vedio{
+      position: relative;
+      margin-left: 80px;
+      width: 500px;
+    }
+    
+  }
+  @media only screen and (max-width: 746px) {
+    #vedio{
+      position: relative;
+      margin-left: 10px;
+      width: 500px;
+    }
+    
+  }
+  @media only screen and (max-width: 541px) {
+    #vedio{
+      position: relative;
+      margin-left: 50px;
+      width: 400px;
+    }
+  }
+  @media only screen and (max-width: 525px) {
+    #vedio{
+      position: relative;
+      margin-left: 50px;
+      width: 400px;
+    }
+  }
+  @media only screen and (max-width: 471px) {
+    #vedio{
+      position: relative;
+      margin-left: 70px;
+      width: 300px;
+    }
+    
+  }
+  @media only screen and (max-width: 463px) {
+    #vedio{
+      position: relative;
+      margin-left: 70px;
+      width: 300px;
+    }
+  }
+  @media only screen and (max-width: 415px) {
+    #vedio{
+      position: relative;
+      margin-left: 45px;
+      width: 300px;
+    }
+  }
+  @media only screen and (max-width: 400px) {
+    #vedio{
+      position: relative;
+      margin-left: 30px;
+      width: 300px;
+    }
+  }
+  @media only screen and (max-width: 383px) {
+    #vedio{
+      position: relative;
+      margin-left: 40px;
+      width: 250px;
+    }
+  }
+  @media only screen and (max-width: 300px) {
+    #vedio{
+      position: relative;
+      margin-left: 15px;
+      width: 225px;
+    }
+  }
+  @media only screen and (max-width: 2000px) {
+    #Faire-un-don{
+      position: relative;
+      margin-top:0px ;
+      
+    }
+  }
+  @media only screen and (max-width: 685px) {
+    #Faire-un-don{
+      position: relative;
+      margin-top:200px ;
+      
+    }
+  }
