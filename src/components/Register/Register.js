@@ -18,7 +18,7 @@ const Register = () => {
   const handleSubmit = async (event) => {
     event.preventDefault();
     try {
-      const response = await axios.post("http://localhost:3500/auth/register", {
+      const response = await axios.post("https://blood-donation-api-1.onrender.com/auth/register", {
         username,
         email,
         password,
